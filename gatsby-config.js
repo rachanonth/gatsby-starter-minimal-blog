@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Rachanont Blog`,
     siteTitleAlt: `Rachanont Blog - Gatsby Theme`,
     siteHeadline: `Rachanont Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://rachanont.com`,
+    siteUrl: `https://www.rachanont.com`,
     siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            url: `https://www.rachanont.com`,
           },
         ],
       },
